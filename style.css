@@ -2,6 +2,7 @@
     color:rgb(255, 255, 255); 
     height: 100%;
     width: 100%;
+    margin: 50px 0px;
     text-align: center; 
     justify-content: center;
 }
@@ -92,8 +93,7 @@ body{
 
 .plan{ 
     padding: 20px 50px;
-    text-align: left;
-    margin: 0px 10px 0px 10px;
+    text-align: left; 
     border: 10px, 100px;
     margin: 15px; 
     border-radius: 15px;
